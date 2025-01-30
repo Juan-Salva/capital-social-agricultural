@@ -1,2 +1,2 @@
 # capital-social-agricultural
-Se presentan bases de datos, encuesta y anexos metodológicos.
+Contiene los insumos (bases de datos y figuras) para el artículo científico: Apego, enlace e interface en el capital social para la gestión agrícola, donde se analizar el patrón de los vínculos sociales de los productores y su influencia en la gestión del capital social de apego, enlace e interface para la comprensión del papel en la adopción de innovaciones y su impacto en la producción agrícola. Leer documento material complementario.
